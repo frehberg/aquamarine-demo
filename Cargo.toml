@@ -8,6 +8,5 @@ repository = "https://github.com/mersinvald/aquamarine"
 edition = "2018"
 license = "MIT"
 
-[dependencies.aquamarine]
-version = "0.3.0"
-path = "../"
+[dependencies]
+aquamarine = "0.3.0"
